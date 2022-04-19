@@ -1,0 +1,6 @@
+Ćwiczeie 5 (układy synchronieczne) - dostępne są różne bramki logiczne i 5 przerzutników JK.
+1) Zbudować sumator synchroiczny lczb binarnych. Dane we/wy są w rejestrach 8-bitowych.
+2) Zbudować synchronczny układ konwersji kodu binarnego na kod Graya.Dane we/wy są w rejestrach 8-bitowych.
+3) Zbudować licznik synchroniczny modulo 4 (stany: 0,1,2,3) liczący do przodu i wstecz:
+- dla sygnału wejściowego s = 0 licznik do przodu,
+- dla sygnału wejściowego s = 1 licznik do tyłu.
